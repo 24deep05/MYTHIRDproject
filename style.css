@@ -1,0 +1,42 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+hr{
+    
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+img{
+    margin-left: 110px;
+}
+header{
+    background-color: black;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    margin: 150px;
+}
+li a:hover {
+    color: azure;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: azure;
+    padding: 5px;
+}
